@@ -1,6 +1,6 @@
 # =====================================================
-# Name: Yashwant
-# Roll No: 2301010329
+# Name: Sonu BHARTI
+# Roll No: 2301010323
 # Course: Image Processing & Computer Vision
 # Unit: Image Acquisition & Enhancement
 # Assignment Title: Smart Document Scanner & Quality Analysis
@@ -195,4 +195,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
